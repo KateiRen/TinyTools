@@ -10,7 +10,7 @@ These are the primary repositories in this index.
 | --- | --- | --- |
 | [Backup-and-Refresh](https://github.com/kateiren/Backup-and-Refresh) | Cross-platform CLI | Utility scripts and workflows to back up local artifacts and refresh working environments quickly. |
 | [PDFEdit](https://github.com/kateiren/PDFEdit) | Desktop / CLI | Lightweight tools for editing, reorganizing, and automating common PDF tasks. |
-| [SnaptTales](https://github.com/kateiren/SnaptTales) | Core library / CLI | Core SnaptTales project for building and managing story content workflows. |
+| [SnaptTales](https://github.com/kateiren/SnapTales) | Core library / CLI | Core SnaptTales project for building and managing story content workflows. |
 | [Snaptales-tkinter](https://github.com/kateiren/Snaptales-tkinter) | Desktop (Tkinter) | Desktop Tkinter interface for Snaptales-focused authoring and utility actions. |
 | [Snaptales-Web](https://github.com/kateiren/Snaptales-Web) | Web browser | Web implementation of Snaptales with browser-based interaction and publishing flow. |
 
