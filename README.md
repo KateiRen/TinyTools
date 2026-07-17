@@ -13,6 +13,7 @@ These are the primary repositories in this index.
 | [SnaptTales](https://github.com/kateiren/SnapTales) | Core library / CLI | Core SnaptTales project for building and managing story content workflows. |
 | [Snaptales-tkinter](https://github.com/kateiren/Snaptales-tkinter) | Desktop (Tkinter) | Desktop Tkinter interface for Snaptales-focused authoring and utility actions. |
 | [Snaptales-Web](https://github.com/kateiren/Snaptales-Web) | Web browser | Web implementation of Snaptales with browser-based interaction and publishing flow. |
+| [startpage](https://github.com/kateiren/startpage) | Web browser | Your customizable Startpage with Birthday reminder and Sonos control. |
 
 ## Notes
 
