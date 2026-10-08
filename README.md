@@ -10,7 +10,7 @@ These are the primary repositories in this index.
 | --- | --- | --- |
 | [Backup-and-Refresh](https://github.com/kateiren/Backup-and-Refresh) | Cross-platform CLI | Utility scripts and workflows to back up local artifacts and refresh working environments quickly. |
 | [foundry-local-whispr](https://github.com/KateiRen/FoundryLocalWhispr) | Desktop (Windows tray app) | Local speech-to-text dictation using Whisper on Microsoft Foundry Local, with hardware-accelerated performance. |
-| [foundry-local-explorer]([https://github.com/KateiRen/FoundryLocalWhispr](https://github.com/microsofthackathons/foundry-local-explorer)) | Desktop (Windows, Mac, Linux) | A GUI on top of the Azure local SDK to browse the model catalogue and test HW acceleration. |
+| [foundry-local-explorer](https://github.com/microsofthackathons/foundry-local-explorer) | Desktop (Windows, Mac, Linux) | A GUI on top of the Azure local SDK to browse the model catalogue and test HW acceleration. |
 | [PDFEdit](https://github.com/kateiren/PDFEdit) | Desktop / CLI | Lightweight tools for editing, reorganizing, and automating common PDF tasks. |
 | [SnaptTales](https://github.com/kateiren/SnapTales) | Core library / CLI | Core SnaptTales project for building and managing story content workflows. |
 | [Snaptales-tkinter](https://github.com/kateiren/Snaptales-tkinter) | Desktop (Tkinter) | Desktop Tkinter interface for Snaptales-focused authoring and utility actions. |
